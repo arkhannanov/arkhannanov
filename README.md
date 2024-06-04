@@ -1,7 +1,7 @@
 Hi 👋 My name is Artur Khanannov
 ==================================
 
-Middle/Senior Frontend Developer
+Senior Frontend Developer
 ------------------
 
 Good time of the day, my name is Artur Khannanov. I got 2 master degrees MSTU named after Bauman and Higher Shool of Economics. I am a ReactJS developer with over 7 years of commercial development experience. Throughout my career as a developer, I have been involved in various projects, working in both small organizations and banks like Sberbank and VTB. I possess strong communication skills and organizational qualities. The process of high-quality development, both in terms of code and deployment processes, code reviews, and interaction with testers, managers, and analysts, is not just a mere sound to me.
